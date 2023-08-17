@@ -10,7 +10,7 @@
 
 *(Comandline von https://www.zerotier.com/ )*
 
-## Wenn bei den Folgenden Comands der Fehler "missing authentification token and authtoken.secret no found (or readable)" verwende "sudo zerotier-cli".
+#### Wenn bei den Folgenden Comands der Fehler "missing authentification token and authtoken.secret no found (or readable)" verwende "sudo zerotier-cli".
 
 ### ZeroTier addresse erfahren und status abfragen:
 
